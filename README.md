@@ -82,7 +82,7 @@ In the given example, the mesh consists of 11 nodes and 7 polygons. The first po
 
 ## License (Open Source & Commercial)
 
-Copyright (C) 2023  TWT GmbH Science & Innovation
+Copyright (C) 2023  [TWT GmbH Science & Innovation](https://twt-innovation.de/)
 
 GETMe Polygonal Meshes 2D is licensed under the GNU General Public License v3.0 or later. See [COPYING](./COPYING).
 
