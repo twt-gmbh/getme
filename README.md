@@ -82,11 +82,13 @@ In the given example, the mesh consists of 11 nodes and 7 polygons. The first po
 
 ## License (Open Source & Commercial)
 
-Copyright (C) 2023  [TWT GmbH Science & Innovation](https://twt-innovation.de/)
+Copyright (C) 2023  [TWT GmbH Science & Innovation](https://twt-innovation.de/en/)
 
 GETMe Polygonal Meshes 2D is licensed under the GNU General Public License v3.0 or later. See [COPYING](./COPYING).
 
 In cases where the constraints of the Open Source license prevent you from using this programm, you can buy a commercial license for GETMe Polygonal Meshes 2D from TWT GmbH. The commercial offer is adapted to academic/research and industry customers.
+
+See also: [Mathematics at TWT](https://twt-innovation.de/en/mathematik/)
 
 ## Third Party Code Used
 
