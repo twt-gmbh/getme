@@ -86,7 +86,7 @@ Copyright (C) 2023  [TWT GmbH Science & Innovation](https://twt-innovation.de/en
 
 GETMe Polygonal Meshes 2D is licensed under the GNU General Public License v3.0 or later. See [COPYING](./COPYING).
 
-In cases where the constraints of the Open Source license prevent you from using this programm, you can buy a commercial license for GETMe Polygonal Meshes 2D from [TWT GmbH Science & Innovation](https://twt-innovation.de/en/). The commercial offer is adapted to academic/research and industry customers.
+In cases where the constraints of the Open Source license prevent you from using this source code, you can buy a commercial license for GETMe Polygonal Meshes 2D from [TWT GmbH Science & Innovation](https://twt-innovation.de/en/).
 
 See also: [Mathematics at TWT](https://twt-innovation.de/en/mathematik/)
 
